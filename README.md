@@ -1,4 +1,4 @@
-# 🏠 K-Means Clustering – California Housing Project
+# 🏠 Classifying California Homes using K-Means Clustering
 
 The objective is to apply **K-Means clustering** to group houses based on **location and median income** using the **California Housing dataset**. We then use these generated labels to train a **supervised learning model**, completing a semi-supervised machine learning pipeline.
 
