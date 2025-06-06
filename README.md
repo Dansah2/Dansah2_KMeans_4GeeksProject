@@ -1,6 +1,16 @@
-# Data Science Project Boilerplate
+# 🏠 K-Means Clustering – California Housing Project
 
-This boilerplate is designed to kickstart data science projects by providing a basic setup for database connections, data processing, and machine learning model development. It includes a structured folder organization for your datasets and a set of pre-defined Python packages necessary for most data science tasks.
+The objective is to apply **K-Means clustering** to group houses based on **location and median income** using the **California Housing dataset**. We then use these generated labels to train a **supervised learning model**, completing a semi-supervised machine learning pipeline.
+
+## 📁 Dataset
+
+Utilizing the 1990 California census, the data contains one row per census block group. A block group is the smallest geographic unit for which US Census data is published. The only features we are interested in are as follows:
+
+📊 Features:
+
+- `Latitude`: Numerical
+- `Longitude`: Numerical
+- `MedInc`: Numerical
 
 ## Structure
 
